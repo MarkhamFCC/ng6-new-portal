@@ -15,5 +15,20 @@ ng g c users
 yarn global add json-server
 
 
+=======
 
+Please include in your code!
+
+app.module.ts :
+…
+import { UserService } from ‘./users/user.service’;
+…
+@NgModule({
+…
+providers: [UserService],
+…
+})
+export class AppModule { }
+
+==========
 
