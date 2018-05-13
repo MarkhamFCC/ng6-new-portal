@@ -12,7 +12,7 @@ ng g c dashboard
 ng g c users
 
 
-
+yarn global add json-server
 
 
 
