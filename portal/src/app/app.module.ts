@@ -6,6 +6,11 @@ import { AppComponent } from './app.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { UsersComponent } from './users/users.component';
 
+const routes: Routes = [
+  { path: 'users', component: UsersComponent },
+  { path: 'dashboard', component: DashboardComponent }
+];
+
 @NgModule({
   declarations: [
     AppComponent,
