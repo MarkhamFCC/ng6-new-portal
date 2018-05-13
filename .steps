@@ -7,3 +7,13 @@ ng serve
 yarn add bootstrap
 
 
+ng g c dashboard
+
+ng g c users
+
+
+
+
+
+
+
