@@ -2,3 +2,6 @@
 
 ng new portal
 
+ng serve
+
+yarn add bootstrap
