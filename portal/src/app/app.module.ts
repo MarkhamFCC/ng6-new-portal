@@ -22,7 +22,7 @@ const routes: Routes = [
   imports: [
     BrowserModule,
     RouterModule.forRoot(routes),
-    HttpClientModule,
+    HttpClientModule
   ],
   exports: [
     RouterModule
