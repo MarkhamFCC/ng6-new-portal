@@ -1,0 +1,34 @@
+1. yarn add global @angular/cli
+
+ng new portal
+
+ng serve
+
+yarn add bootstrap
+
+
+ng g c dashboard
+
+ng g c users
+
+
+yarn global add json-server
+
+
+=======
+
+Please include in your code!
+
+app.module.ts :
+…
+import { UserService } from ‘./users/user.service’;
+…
+@NgModule({
+…
+providers: [UserService],
+…
+})
+export class AppModule { }
+
+==========
+
