@@ -18,21 +18,21 @@
     {
         "id": "4",
         "name": "Kevin B.",
-        "profile": "profile-link"
+        "profile": "#"
     },
     {
         "id": "5",
         "name": "Kevin C.",
-        "profile": "profile-link"
+        "profile": "#"
     },    
     {
         "id": "6",
         "name": "Roman",
-        "profile": "profile-link"
+        "profile": "#"
     },
     {
         "id": "7",
         "name": "Wayne",
-        "profile": "profile-link"
+        "profile": "#"
     }]
 }
