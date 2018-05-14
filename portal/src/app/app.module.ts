@@ -29,6 +29,6 @@ const routes: Routes = [
     RouterModule
   ],
   providers: [ UserService ],
-  bootstrap: [AppComponent]
+  bootstrap: [ AppComponent ]
 })
 export class AppModule { }
