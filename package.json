@@ -1,6 +1,11 @@
 {
   "dependencies": {
     "@angular/cli": "^6.0.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "path": "^0.12.7",
     "global": "^4.3.2"
   }
 }
